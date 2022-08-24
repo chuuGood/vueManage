@@ -1,0 +1,15 @@
+<template>
+  <div>
+    我是一个PageOne页面
+  </div>
+</template>
+
+<script>
+    export default {
+        name:'PageOne'
+    }
+</script>
+
+<style>
+
+</style>

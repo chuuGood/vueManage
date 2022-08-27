@@ -32,7 +32,7 @@
     :config="config"
     @edit="editUser"
     @del="delUser"
-    @changePage="getList"
+    @changePage="getList()"
     ></CommonTable>
   </div>
 </template>
